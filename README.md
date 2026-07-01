@@ -99,6 +99,3 @@ The tool automatically saves data to a file named `courses.json` in the root dir
 
 ```
 
-```
-
-```
